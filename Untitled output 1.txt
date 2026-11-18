@@ -1,0 +1,8 @@
+
+STUDENT MARKS MANAGEMENT SYSTEM
+--------------------------------
+1. Enter Student Details
+2. Calculate Result
+3. Display Result
+4. Exit
+Enter your choice: 
